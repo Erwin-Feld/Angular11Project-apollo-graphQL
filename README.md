@@ -1,6 +1,16 @@
 # Angular11Project
 
+use of apollo client
+how
+https://www.youtube.com/watch?v=D_wGJi5aNMA&t=108s
+
+fake graphql server
+https://fakeql.com/
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.18.
+
+
 
 ## Development server
 
