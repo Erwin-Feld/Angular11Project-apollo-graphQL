@@ -1,1 +1,11 @@
 <p>test-comp works!</p>
+
+
+
+<ul >
+    <li *ngFor="let user of userData">
+        <span>{{user.__typename}}</span>...
+        <span>{{user.age}}</span>--
+        <span>{{user.firstname}}</span>
+    </li>
+</ul>
