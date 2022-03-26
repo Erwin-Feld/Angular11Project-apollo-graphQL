@@ -7,6 +7,9 @@ https://www.youtube.com/watch?v=D_wGJi5aNMA&t=108s
 fake graphql server
 https://fakeql.com/
 
+create angular 11 version
+npx @angular/cli@7 new Angular7Project
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.18.
 
