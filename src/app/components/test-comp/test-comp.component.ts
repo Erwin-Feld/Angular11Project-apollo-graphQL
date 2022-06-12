@@ -8,8 +8,8 @@ import { FIRST_QUERY } from 'src/app/graphql/graphql.queries';
 export interface Users {
   __typename: string,
   id: string,
-  firstname: string,
-  age: number
+  email: string,
+  name: string
 }
 
 @Component({
