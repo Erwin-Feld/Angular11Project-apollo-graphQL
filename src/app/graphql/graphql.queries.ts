@@ -4,8 +4,8 @@ const FIRST_QUERY = gql`
     query {
         users {
             id
-            firstname
-            age
+            email
+            name
         }
     }   
 `
